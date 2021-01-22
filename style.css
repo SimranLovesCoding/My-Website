@@ -1,0 +1,25 @@
+p {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+body {
+    background-image: linear-gradient(to right bottom, #c758ff, #e843dc, #fa34b8, #ff3297, #ff3d79, #ff4579, #ff4d79, #ff5479, #ff5893, #ff60af, #ff6bca, #ff79e6);
+}
+
+h1 {
+    font-size: 50px;
+}
+
+img {
+    width: 500px;
+    border-width: 40px;
+    border-style: double;
+    color: whitesmoke;
+}
+
+p:hover {
+    font-size: 30px;
+    color: aliceblue;
+}
